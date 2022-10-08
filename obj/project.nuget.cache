@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWfbu3/885BrLl+kuy/5wTepz8Fz+rFETexRffg0o1LEakQ2kfdHeVWAnt+3fWQk7l9Y7HFdP4dO1n1qQEiX6g==",
+  "success": true,
+  "projectFilePath": "D:\\应用程序\\Visual Studio\\PCAD7-Assignment\\WebForm\\Assignment 13.2\\Assignment 13.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nvale\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nvale\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nvale\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\nvale\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\nvale\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\nvale\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

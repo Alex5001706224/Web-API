@@ -1,0 +1,27 @@
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\appsettings.Development.json
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\appsettings.json
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Assignment 13.2.exe
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Assignment 13.2.deps.json
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Assignment 13.2.runtimeconfig.json
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Assignment 13.2.dll
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Assignment 13.2.pdb
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.csproj.AssemblyReference.cache
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.AssemblyInfoInputs.cache
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.AssemblyInfo.cs
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.csproj.CoreCompileInputs.cache
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.MvcApplicationPartsAssemblyInfo.cs
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.MvcApplicationPartsAssemblyInfo.cache
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\staticwebassets.build.json
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\staticwebassets.development.json
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\scopedcss\bundle\Assignment 13.2.styles.css
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.csproj.CopyComplete
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.dll
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\refint\Assignment 13.2.dll
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.pdb
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\Assignment 13.2.genruntimeconfig.cache
+D:\应用程序\Visual Studio\PCAD7-Assignment\WebForm\Assignment 13.2\obj\Debug\net6.0\ref\Assignment 13.2.dll
